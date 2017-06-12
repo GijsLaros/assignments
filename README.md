@@ -10,6 +10,6 @@
 
 [Assignment week 8](https://github.com/GijsLaros/assignments/blob/master/assignment5af.ipynb)
 
+[Final python assignment](https://github.com/GijsLaros/assignments/blob/master/python_helemaalaf.ipynb)
+
 [Final R assignment](https://github.com/GijsLaros/assignments/blob/master/R_helemaalaf.ipynb)
-
-
