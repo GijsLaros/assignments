@@ -9,3 +9,7 @@
 [Assignment week 6](https://github.com/GijsLaros/assignments/blob/master/assignment4.ipynb)
 
 [Assignment week 8](https://github.com/GijsLaros/assignments/blob/master/assignment5af.ipynb)
+
+[Final R assignment](https://github.com/GijsLaros/assignments/blob/master/R_helemaalaf.ipynb)
+
+
